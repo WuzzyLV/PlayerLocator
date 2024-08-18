@@ -1,0 +1,9 @@
+interval: 20 # In Ticks
+minimum-distance: 100
+
+worlds:
+  - world
+
+
+no-players-message: "<gray>No players nearby!"
+player-nearby-message: "<#c25940>Player: <bold>%player%</bold> is %distance% blocks away"

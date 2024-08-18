@@ -1,0 +1,12 @@
+name: PlayerLocator
+version: '${version}'
+main: me.wuzzyxy.playerlocator.PlayerLocator
+api-version: '1.21'
+
+
+commands:
+    playerlocator:
+        description: Reloads the config
+        usage: /playerlocator reload
+        permission: playerlocator.reload
+        default: op
